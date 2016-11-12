@@ -1,0 +1,22 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "NodeSchool core and elective workshops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drbrounsuga/nodeSchool.git"
+  },
+  "author": "LaVaughn Haynes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drbrounsuga/nodeSchool/issues"
+  },
+  "homepage": "https://github.com/drbrounsuga/nodeSchool#readme",
+  "devDependencies": {
+    "lodash": "^4.16.6"
+  }
+}
